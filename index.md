@@ -1,4 +1,4 @@
-# Your wiki name
+# SAPELI wiki
 
 [Home](home.md)
 [About](about.md)
