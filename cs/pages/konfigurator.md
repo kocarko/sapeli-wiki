@@ -29,22 +29,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 ## 2195
-# Odolnost
-
-
-[]()  | |
-------|------|
-Row 1 | row 2|
-
-dffsdf
-
-|[]()  | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
-dffsdf
-
+## Odolnost
 
 
 |[]()| | |
@@ -65,6 +50,6 @@ dffsdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDIwMDgwMiwxOTA0NDA5NDM4LDE0MT
-Y5ODkwODddfQ==
+eyJoaXN0b3J5IjpbNzQyOTgwMjA4LDE2MzQyMDA4MDIsMTkwND
+QwOTQzOCwxNDE2OTg5MDg3XX0=
 -->
