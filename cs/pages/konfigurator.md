@@ -30,7 +30,9 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 ## 2195
 # Odolnost
-
+```
+| | | |
+|--|--|--|
 |  | **RC2** |základní stupeň ochrany, dveře odolají napadení příležitostným zlodějem, který se je pokouší rozbít užitím fyzického násilí, např. kopáním, narážením ramenem, s použitím jednoduchých nástrojů například šroubováku, kleští, klínu, kladiva, háčku, drátu, pinzety, struny nebo nože, základní odolnost vůči statickému a dynamickému zatížení |
 |--|--| --|
 ||**RC3**|vysoký stupeň ochrany, dveře musí vydržet to, co RC2, ale navíc je možné použít páčidlo o délce 70 cm, ruční mechanickou vrtačku či delší šroubovák a dveře musí i tak vydržet osazené v zárubni po dobu min.5 minut, vysoká odolnost vůči statickému a dynamickému zatížení |
@@ -47,5 +49,5 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcwNjI2NjAsMTQxNjk4OTA4N119
+eyJoaXN0b3J5IjpbNDc3NTU4MzQ4LDE0MTY5ODkwODddfQ==
 -->
