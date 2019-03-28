@@ -37,7 +37,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 |  |**EI 30, EW 30**|označuje minimální dobu v minutách, po kterou dveře musejí odolat odolat požáru z hlediska izolace (EI) a radiace (EW) |
 |  |**Kouřotěsnost**|ochrana proti zdraví škodlivým plynům vznikajícím při hoření|
 |  |**ZVI 33 - 43dB**|zvukotěsná izolace (max. dB) udává úroveň hluku, který neprostoupí přes dveře|
-|  |**Klima II, Klima III**|odolnost proti rozdílnému klimatu 2. nebo 3. Stupně
+|![enter image description here](https://github.com/kocarko/sapeli-wiki/blob/gh-pages/cs/pages/uploads/images/2195_Klima.JPG)  |**Klima II, Klima III**|odolnost proti rozdílnému klimatu 2. nebo 3. Stupně
 
 
 
@@ -47,7 +47,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg0MTA1NDksNTMwMjY4OTAsMTM1OT
-YwNzIzMCwxMDk2ODQwNDUwLDE2MzQyMDA4MDIsMTkwNDQwOTQz
-OCwxNDE2OTg5MDg3XX0=
+eyJoaXN0b3J5IjpbMTg2NzkwNzM5LC0xNzA4NDEwNTQ5LDUzMD
+I2ODkwLDEzNTk2MDcyMzAsMTA5Njg0MDQ1MCwxNjM0MjAwODAy
+LDE5MDQ0MDk0MzgsMTQxNjk4OTA4N119
 -->
