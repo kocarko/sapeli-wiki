@@ -29,6 +29,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 ## 2195
+
 ## Odolnost
 
 
@@ -50,6 +51,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyOTgwMjA4LDE2MzQyMDA4MDIsMTkwND
-QwOTQzOCwxNDE2OTg5MDg3XX0=
+eyJoaXN0b3J5IjpbLTE5NzQ0MjQwOTgsMTYzNDIwMDgwMiwxOT
+A0NDA5NDM4LDE0MTY5ODkwODddfQ==
 -->
