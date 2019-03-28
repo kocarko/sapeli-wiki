@@ -28,10 +28,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.
 
 
-## 2195
-
-## Odolnost
-
+## 2195 Odolnost
 
 |[]()| | |
 |--|--|--|
@@ -51,6 +48,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ0MjQwOTgsMTYzNDIwMDgwMiwxOT
+eyJoaXN0b3J5IjpbLTE1MDk3NDQwNDgsMTYzNDIwMDgwMiwxOT
 A0NDA5NDM4LDE0MTY5ODkwODddfQ==
 -->
