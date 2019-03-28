@@ -40,8 +40,12 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 | ![2195_Klima](uploads\images\2195_Klima.JPG) |**Klima II, Klima III**|odolnost proti rozdílům vlhkostí a teplot na opačných stranách oddělovaného prostoru. *Klima II* vhodné rozdíl teplot < 10°C, rozdíl rel.vlhkosti <35%. *Klima III* vhodné pro rozdíl teplot < 20°C, rozdíl rel.vlhkosti <50%.|jen plné, ne OKZ|
 
 
+![2195_fire](uploads\images\2195_fire.JPG)
+![2195_fire](uploads\images\2195_fire.JPG)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzc3MzAxMywtMTYwMjI2NTcwNiwtMT
-MwMTYxMTExMF19
+eyJoaXN0b3J5IjpbLTE3NDk2MDc3MjEsMTgzMzc3MzAxMywtMT
+YwMjI2NTcwNiwtMTMwMTYxMTExMF19
 -->
