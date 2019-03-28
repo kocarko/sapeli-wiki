@@ -32,15 +32,15 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 ||označení|popis|modely|
 |--|--|--|--|
-| ![2195_RC](uploads\images\2195_RC.JPG) | **RC2** |základní stupeň ochrany, dveře odolají napadení příležitostným zlodějem, který se je pokouší rozbít užitím fyzického násilí, např. kopáním, narážením ramenem, s použitím jednoduchých nástrojů například šroubováku, kleští, klínu, kladiva, háčku, drátu, pinzety, struny nebo nože, základní odolnost vůči statickému a dynamickému zatížení |
-|![2195_RC](uploads\images\2195_RC.JPG)|**RC3**|vysoký stupeň ochrany, dveře musí vydržet to, co RC2, ale navíc je možné použít páčidlo o délce 70 cm, ruční mechanickou vrtačku či delší šroubovák a dveře musí i tak vydržet osazené v zárubni po dobu min.5 minut, vysoká odolnost vůči statickému a dynamickému zatížení |
+| ![2195_RC](uploads\images\2195_RC.JPG) | **RC2** |základní stupeň ochrany, dveře odolají napadení příležitostným zlodějem, který se je pokouší rozbít užitím fyzického násilí, např. kopáním, narážením ramenem, s použitím jednoduchých nástrojů například šroubováku, kleští, klínu, kladiva, háčku, drátu, pinzety, struny nebo nože, základní odolnost vůči statickému a dynamickému zatížení ||
+|![2195_RC](uploads\images\2195_RC.JPG)|**RC3**|vysoký stupeň ochrany, dveře musí vydržet to, co RC2, ale navíc je možné použít páčidlo o délce 70 cm, ruční mechanickou vrtačku či delší šroubovák a dveře musí i tak vydržet osazené v zárubni po dobu min.5 minut, vysoká odolnost vůči statickému a dynamickému zatížení ||
 | ![2195_fire](uploads\images\2195_fire.JPG) |**EI 30, EW 30**|označuje minimální dobu v minutách, po kterou dveře musejí odolat odolat požáru z hlediska izolace (EI) a radiace (EW) |
-| ![2195_Kour](uploads\images\2195_Kour.JPG) |**Kouřotěsnost**|ochrana proti zdraví škodlivým plynům vznikajícím při hoření|
+| ![2195_Kour](uploads\images\2195_Kour.JPG) |**Kouřotěsnost**|ochrana proti zdraví škodlivým plynům vznikajícím při hoření||
 | ![2195_dB](uploads\images\2195_dB.JPG) |**ZVI 33 - 43dB**|zvukotěsná izolace (max. dB) udává úroveň hluku, který neprostoupí přes dveře|jen plné|
 | ![2195_Klima](uploads\images\2195_Klima.JPG) |**Klima II, Klima III**|odolnost proti rozdílům vlhkostí a teplot na opačných stranách oddělovaného prostoru. *Klima II* - rozdíl teplot < 10°C, rozdíl rel.vlhkosti <35%. *Klima III* - rozdíl teplot < 20°C, rozdíl rel.vlhkosti <50%.|jen plné, ne OKZ|
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE2MTExMTBdfQ==
+eyJoaXN0b3J5IjpbMjAwOTUyNTE0MiwtMTMwMTYxMTExMF19
 -->
