@@ -40,3 +40,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 | ![2195_Klima](uploads\images\2195_Klima.JPG) |**Klima II, Klima III**|odolnost proti rozdílnému klimatu 2. nebo 3. Stupně|
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkwMzg4NTQ4MV19
+-->
