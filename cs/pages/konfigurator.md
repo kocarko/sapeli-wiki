@@ -36,18 +36,16 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 ||**RC3**|vysoký stupeň ochrany, dveře musí vydržet to, co RC2, ale navíc je možné použít páčidlo o délce 70 cm, ruční mechanickou vrtačku či delší šroubovák a dveře musí i tak vydržet osazené v zárubni po dobu min.5 minut, vysoká odolnost vůči statickému a dynamickému zatížení |
 |  |**EI 30, EW 30**|označuje minimální dobu v minutách, po kterou dveře musejí odolat odolat požáru z hlediska izolace (EI) a radiace (EW) |
 |  |**Kouřotěsnost**|ochrana proti zdraví škodlivým plynům vznikajícím při hoření|
-|  |**Kouřotěsnost**|ochrana proti zdraví škodlivým plynům vznikajícím při hoření|
+|  |**ZVI 33 - 43dB**|zvukotěsná izolace (max. dB) udává úroveň hluku, který neprostoupí přes dveře|
+|  |**klima II/III**|odolnost proti rozdílnému klimatu 2. nebo 3. Stupně
 
 
 
 
 
 
--  – 
 
-- **ZVI 33 - 43dB** – zvukotěsná izolace (max. dB) udává úroveň hluku, který neprostoupí přes dveře
 
-- **klima II/III** - odolnost proti rozdílnému klimatu 2. nebo 3. Stupně
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzEyMDIwMF19
+eyJoaXN0b3J5IjpbMTQxNjk4OTA4N119
 -->
