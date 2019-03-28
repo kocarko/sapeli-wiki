@@ -29,7 +29,10 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 ## 2195
-Odolnost
+**Odolnost**
+|  | **RC2** | |
+|--|--| |
+|  |  | |
 
 - **RC2** - základní stupeň ochrany, dveře odolají napadení příležitostným zlodějem, který se je pokouší rozbít užitím fyzického násilí, např. kopáním, narážením ramenem, s použitím jednoduchých nástrojů například šroubováku, kleští, klínu, kladiva, háčku, drátu, pinzety, struny nebo nože, základní odolnost vůči statickému a dynamickému zatížení
 
@@ -43,5 +46,5 @@ Odolnost
 
 - **klima II/III** - odolnost proti rozdílnému klimatu 2. nebo 3. Stupně
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYyODkzNzNdfQ==
+eyJoaXN0b3J5IjpbODY3ODY4MTQyXX0=
 -->
