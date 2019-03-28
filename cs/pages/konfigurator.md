@@ -42,3 +42,6 @@ Odolnost
 - **ZVI 33 - 43dB** – zvukotěsná izolace (max. dB) udává úroveň hluku, který neprostoupí přes dveře
 
 - **klima II/III** - odolnost proti rozdílnému klimatu 2. nebo 3. Stupně
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDYyODkzNzNdfQ==
+-->
