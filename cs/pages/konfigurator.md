@@ -1,7 +1,7 @@
 # Konfigurátor
 
 
-## 2194_Stupeň zatížení+polodrážka
+## 2194 Stupeň zatížení+polodrážka
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
@@ -47,6 +47,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Njg0MDQ1MCwxNjM0MjAwODAyLDE5MD
-Q0MDk0MzgsMTQxNjk4OTA4N119
+eyJoaXN0b3J5IjpbLTc4NzcwMDQ0NywxMDk2ODQwNDUwLDE2Mz
+QyMDA4MDIsMTkwNDQwOTQzOCwxNDE2OTg5MDg3XX0=
 -->
