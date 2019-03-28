@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# SAPELI - wiki
 
 
 <!--
@@ -19,10 +19,10 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Konfigurátor](pages/konfigurator.md)
+[FAQ](pages/faq.md)
 
-<!-- A more complex navigation example: ----------------------------------------
+<!--A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
 
@@ -40,26 +40,27 @@
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
+---------------------------------------------------------------------------->
 
-<!--
-  -- Change the Language
-  -- Could be useful when there's more than one language wiki.
-  -->
 
-<!--
-[Change the Language]()
-
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
--->
 
 <!--
   -- Let the user choose a theme
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+
+[gimmick:themechooser](Vzhled)
+
 <!--
-[gimmick:themechooser](Choose theme)
--->
+  -- Change the Language
+  -- Could be useful when there's more than one language wiki.
+  -->
+
+
+[Jazyk]()
+
+  * [Čeština](/cs/)
+  * [Němčina](/de/)
+  
+

@@ -1,1 +1,0 @@
-[gimmick:themechooser](Choose theme)
