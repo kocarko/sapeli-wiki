@@ -18,7 +18,7 @@
   - EMOTIVE
   - SYNTESI
  - Posuvné na stěnu
-   - A HEAVY
+   - Avanza Heavy
    - A ZERO
    - MINIMA
    - SMART
@@ -26,6 +26,7 @@
  - Posuvné na strop
    - SMART
   - Skládací
+  
   - Harmonikové
   - Otevíravé v obou směrech
   - Průchozí
@@ -75,6 +76,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYzNDg5MSwtMTc0OTYwNzcyMSwxOD
+eyJoaXN0b3J5IjpbLTY3NzU1MDUyMSwtMTc0OTYwNzcyMSwxOD
 MzNzczMDEzLC0xNjAyMjY1NzA2LC0xMzAxNjExMTEwXX0=
 -->
