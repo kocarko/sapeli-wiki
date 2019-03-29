@@ -18,10 +18,10 @@
   - EMOTIVE
   - SYNTESI
  - Posuvné na stěnu
-   - Avanza Heavy
-   - A ZERO
+   - AVANZA HEAVY
+   - AVANZA  ZERO
    - MINIMA
-   - SMART
+   - SMART SOFT
    - ULTERIOR
  - Posuvné na strop
    - SMART
@@ -76,6 +76,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzU1MDUyMSwtMTc0OTYwNzcyMSwxOD
-MzNzczMDEzLC0xNjAyMjY1NzA2LC0xMzAxNjExMTEwXX0=
+eyJoaXN0b3J5IjpbLTEzNzU0MTQ3NDEsLTE3NDk2MDc3MjEsMT
+gzMzc3MzAxMywtMTYwMjI2NTcwNiwtMTMwMTYxMTExMF19
 -->
