@@ -5,7 +5,10 @@
 
 - Bez polodrážky
 - S polodrážkou
- - Posuvné na stěnu SMART
+- Reverzní
+- Posuvné do stěny
+- 
+ - Posuvné na stěnu
  - 
 
 
@@ -52,6 +55,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjA3MjA4MSwtMTc0OTYwNzcyMSwxOD
-MzNzczMDEzLC0xNjAyMjY1NzA2LC0xMzAxNjExMTEwXX0=
+eyJoaXN0b3J5IjpbMzYzNzc0NzY4LC0xNzQ5NjA3NzIxLDE4Mz
+M3NzMwMTMsLTE2MDIyNjU3MDYsLTEzMDE2MTExMTBdfQ==
 -->
