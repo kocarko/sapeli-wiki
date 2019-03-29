@@ -17,7 +17,10 @@
    - MINIMA
    - SMART
    - ULTERIOR
-
+ - Posuvné na strop
+   - SMART
+  - Skládací
+  - Harmonikové
 
 
 
@@ -64,6 +67,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjA4OTE0MiwtMTc0OTYwNzcyMSwxOD
-MzNzczMDEzLC0xNjAyMjY1NzA2LC0xMzAxNjExMTEwXX0=
+eyJoaXN0b3J5IjpbLTExOTQ1OTY3NTcsLTE3NDk2MDc3MjEsMT
+gzMzc3MzAxMywtMTYwMjI2NTcwNiwtMTMwMTYxMTExMF19
 -->
