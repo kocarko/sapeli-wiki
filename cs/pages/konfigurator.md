@@ -4,8 +4,12 @@
 ## 2194 Stupeň zatížení+polodrážka
 
 - Bez polodrážky
+  - Dřevěná zárubeň
+  - Kovová zárubeň
 - S polodrážkou
 - Reverzní
+  - Dřevěná zárubeň
+  - 
 - Posuvné do stěny
   - AKTIVE
   - ECLISSE
@@ -67,6 +71,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ1OTY3NTcsLTE3NDk2MDc3MjEsMT
+eyJoaXN0b3J5IjpbLTE4NDc3NDc0NjgsLTE3NDk2MDc3MjEsMT
 gzMzc3MzAxMywtMTYwMjI2NTcwNiwtMTMwMTYxMTExMF19
 -->
