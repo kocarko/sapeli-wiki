@@ -7,7 +7,9 @@
 - S polodrážkou
 - Reverzní
 - Posuvné do stěny
-- 
+  - AKTIVE
+
+
  - Posuvné na stěnu
  - 
 
@@ -55,6 +57,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNzc0NzY4LC0xNzQ5NjA3NzIxLDE4Mz
-M3NzMwMTMsLTE2MDIyNjU3MDYsLTEzMDE2MTExMTBdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk2NDc2MTgsLTE3NDk2MDc3MjEsMT
+gzMzc3MzAxMywtMTYwMjI2NTcwNiwtMTMwMTYxMTExMF19
 -->
