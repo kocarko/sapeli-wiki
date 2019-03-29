@@ -3,6 +3,8 @@
 
 ## 2194 Stupeň zatížení+polodrážka
 
+- Bez polodrážky
+- S polodrážkou
  - Posuvné na stěnu SMART
  - 
 
@@ -50,6 +52,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDkzMzk4NCwtMTc0OTYwNzcyMSwxOD
+eyJoaXN0b3J5IjpbMTk5NjA3MjA4MSwtMTc0OTYwNzcyMSwxOD
 MzNzczMDEzLC0xNjAyMjY1NzA2LC0xMzAxNjExMTEwXX0=
 -->
