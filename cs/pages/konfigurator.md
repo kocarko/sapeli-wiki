@@ -1,7 +1,7 @@
 # Konfigurátor
 
 
-## 2194 Stupeň zatížení+polodrážka
+## 2194 # Stupeň zatížení+polodrážka
 
 - Bez polodrážky
   - Dřevěná zárubeň
