@@ -76,8 +76,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 
 odkaz na obrázek umístěný na serveru Sapeli (www.sapeli.cz/.../elegant_final.jpg)
 
-![obrázek](https://www.sapeli.cz/sites/default/files/styles/scale_to_400px/public/inspirace/elegant_final.jpg?itok=rlud7HC6)
-
 ![obrázek](https://www.sapeli.cz/sites/default/files/styles/scale_to_400px/public/inspirace/elegant_final.jpg)
 
 
@@ -85,7 +83,7 @@ odkaz na obrázek umístěný na serveru Sapeli (www.sapeli.cz/.../elegant_final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NjY4NjcsLTY5NTQ4NTY0OCwtMTMwNT
+eyJoaXN0b3J5IjpbNTgwMDEwNDQsLTY5NTQ4NTY0OCwtMTMwNT
 k3MzQ1NiwtMTM3ODE3NDc1NCwxMTgwNzkwMDI3LC0xMzc1NDE0
 NzQxLC0xNzQ5NjA3NzIxLDE4MzM3NzMwMTMsLTE2MDIyNjU3MD
 YsLTEzMDE2MTExMTBdfQ==
