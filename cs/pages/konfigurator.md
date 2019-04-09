@@ -74,15 +74,18 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 ## Normal 25 Oblé osten
 ![Normal 25 Oblé osten](uploads\images\IMG_20190328_125416.png)
 
-odkaz na obrázek na serveru Sapeli
+odkaz na obrázek umístěný na serveru Sapeli (www.sapeli.cz
+
 ![obrázek](https://www.sapeli.cz/sites/default/files/styles/scale_to_400px/public/inspirace/elegant_final.jpg?itok=rlud7HC6)
+
+![obrázek](https://www.sapeli.cz/sites/default/files/styles/scale_to_400px/public/inspirace/elegant_final.jpg)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjAyMDA2NywtMTMwNTk3MzQ1NiwtMT
+eyJoaXN0b3J5IjpbLTY5NTQ4NTY0OCwtMTMwNTk3MzQ1NiwtMT
 M3ODE3NDc1NCwxMTgwNzkwMDI3LC0xMzc1NDE0NzQxLC0xNzQ5
 NjA3NzIxLDE4MzM3NzMwMTMsLTE2MDIyNjU3MDYsLTEzMDE2MT
 ExMTBdfQ==
