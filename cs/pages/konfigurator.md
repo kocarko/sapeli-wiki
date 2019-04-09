@@ -47,7 +47,8 @@
 ## Normal 25 Oblé osten
 ![Normal 25 Oblé osten](uploads\images\IMG_20190328_125416.png)
 
-odkaz na obrázek umístěný na serveru Sapeli (www.sapeli.cz/.../elegant_final.jpg)
+
+**odkaz na obrázek umístěný na serveru Sapeli** (www.sapeli.cz/.../elegant_final.jpg)
 
 ![obrázek](https://www.sapeli.cz/sites/default/files/styles/scale_to_400px/public/inspirace/elegant_final.jpg)
 
@@ -56,8 +57,8 @@ odkaz na obrázek umístěný na serveru Sapeli (www.sapeli.cz/.../elegant_final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMxODgxNjIsLTY5NTQ4NTY0OCwtMT
-MwNTk3MzQ1NiwtMTM3ODE3NDc1NCwxMTgwNzkwMDI3LC0xMzc1
-NDE0NzQxLC0xNzQ5NjA3NzIxLDE4MzM3NzMwMTMsLTE2MDIyNj
-U3MDYsLTEzMDE2MTExMTBdfQ==
+eyJoaXN0b3J5IjpbMTM2ODYwNTkwNCwtNjk1NDg1NjQ4LC0xMz
+A1OTczNDU2LC0xMzc4MTc0NzU0LDExODA3OTAwMjcsLTEzNzU0
+MTQ3NDEsLTE3NDk2MDc3MjEsMTgzMzc3MzAxMywtMTYwMjI2NT
+cwNiwtMTMwMTYxMTExMF19
 -->
