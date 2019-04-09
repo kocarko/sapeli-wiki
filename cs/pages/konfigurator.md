@@ -71,14 +71,14 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 | ![2195_dB](uploads\images\2195_dB.JPG) |**ZVI 33 - 43dB**|zvukotěsná izolace (max. dB) udává úroveň hluku, který neprostoupí přes dveře|jen plné|
 | ![2195_Klima](uploads\images\2195_Klima.JPG) |**Klima II, Klima III**|odolnost proti rozdílům vlhkostí a teplot na opačných stranách oddělovaného prostoru. *Klima II* vhodné rozdíl teplot < 10°C, rozdíl rel.vlhkosti <35%. *Klima III* vhodné pro rozdíl teplot < 20°C, rozdíl rel.vlhkosti <50%.|jen plné, ne OKZ|
 
-## 2195 
-![2195_fire](uploads\images\2195_fire.JPG)
-![2195_fire](uploads\images\2195_fire.JPG)
+## Normal 25 Oblé osten
+![Normal 25 Oblé osten](uploads\images\2195_fire.JPG)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzc3OTkwLDExODA3OTAwMjcsLTEzNz
-U0MTQ3NDEsLTE3NDk2MDc3MjEsMTgzMzc3MzAxMywtMTYwMjI2
-NTcwNiwtMTMwMTYxMTExMF19
+eyJoaXN0b3J5IjpbLTEzNzgxNzQ3NTQsMTE4MDc5MDAyNywtMT
+M3NTQxNDc0MSwtMTc0OTYwNzcyMSwxODMzNzczMDEzLC0xNjAy
+MjY1NzA2LC0xMzAxNjExMTEwXX0=
 -->
