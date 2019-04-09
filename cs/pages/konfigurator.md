@@ -72,13 +72,17 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla n
 | ![2195_Klima](uploads\images\2195_Klima.JPG) |**Klima II, Klima III**|odolnost proti rozdílům vlhkostí a teplot na opačných stranách oddělovaného prostoru. *Klima II* vhodné rozdíl teplot < 10°C, rozdíl rel.vlhkosti <35%. *Klima III* vhodné pro rozdíl teplot < 20°C, rozdíl rel.vlhkosti <50%.|jen plné, ne OKZ|
 
 ## Normal 25 Oblé osten
-![Normal 25 Oblé osten](uploads\images\2195_fire.JPG)
+![Normal 25 Oblé osten](uploads\images\IMG_20190328_125416.png)
+
+odkaz na obrázek na serveru Sapeli
+![obrázek](https://www.sapeli.cz/elegant-10-vysoke)
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgxNzQ3NTQsMTE4MDc5MDAyNywtMT
-M3NTQxNDc0MSwtMTc0OTYwNzcyMSwxODMzNzczMDEzLC0xNjAy
-MjY1NzA2LC0xMzAxNjExMTEwXX0=
+eyJoaXN0b3J5IjpbLTEzMDU5NzM0NTYsLTEzNzgxNzQ3NTQsMT
+E4MDc5MDAyNywtMTM3NTQxNDc0MSwtMTc0OTYwNzcyMSwxODMz
+NzczMDEzLC0xNjAyMjY1NzA2LC0xMzAxNjExMTEwXX0=
 -->
